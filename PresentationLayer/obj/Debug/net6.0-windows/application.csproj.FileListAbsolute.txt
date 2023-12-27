@@ -1,0 +1,15 @@
+C:\Users\balos\source\repos\FinalProjesi\PresentationLayer\obj\Debug\net6.0-windows\application.csproj.AssemblyReference.cache
+C:\Users\balos\source\repos\FinalProjesi\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.AddMember.resources
+C:\Users\balos\source\repos\FinalProjesi\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.ListMembers.resources
+C:\Users\balos\source\repos\FinalProjesi\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.MainScreen.resources
+C:\Users\balos\source\repos\FinalProjesi\PresentationLayer\obj\Debug\net6.0-windows\application.Properties.Resources.resources
+C:\Users\balos\source\repos\FinalProjesi\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.SendCustomMail.resources
+C:\Users\balos\source\repos\FinalProjesi\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.SendDebtMail.resources
+C:\Users\balos\source\repos\FinalProjesi\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.ShowDues.resources
+C:\Users\balos\source\repos\FinalProjesi\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.ShowPayments.resources
+C:\Users\balos\source\repos\FinalProjesi\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.UpdateMember.resources
+C:\Users\balos\source\repos\FinalProjesi\PresentationLayer\obj\Debug\net6.0-windows\application.csproj.GenerateResource.cache
+C:\Users\balos\source\repos\FinalProjesi\PresentationLayer\obj\Debug\net6.0-windows\application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balos\source\repos\FinalProjesi\PresentationLayer\obj\Debug\net6.0-windows\application.AssemblyInfoInputs.cache
+C:\Users\balos\source\repos\FinalProjesi\PresentationLayer\obj\Debug\net6.0-windows\application.AssemblyInfo.cs
+C:\Users\balos\source\repos\FinalProjesi\PresentationLayer\obj\Debug\net6.0-windows\application.csproj.CoreCompileInputs.cache
