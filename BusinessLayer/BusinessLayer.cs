@@ -38,6 +38,38 @@ namespace BusinessLayer
             "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024"
         };
 
+        public string CreateUyelerTable()
+        {
+            string query = "CREATE TABLE Uyeler (" +
+                "TCKimlik varchar(11) UNIQUE,  " +
+                "Ad varchar(50),  " +
+                "Soyad varchar(50),  " +
+                "DogumTarihi Date,  " +
+                "KanGrubu varchar(10),  " +
+                "Cinsiyet varchar(10),  " +
+                "Sehir varchar(20),  " +
+                "Adres varchar(100),  " +
+                "TelefonNumarasi varchar(15),  " +
+                "EpostaAdresi varchar(30),  " +
+                "UyeDurumu varchar(10),  " +
+                "KayitTarihi DateTime,  " +
+                "CONSTRAINT PK_Üyeler PRIMARY KEY (TCKimlik)" +
+                ");";
+            return query;
+        }
+        public string CreateAidatlarTable()
+        {
+            string query = "CREATE TABLE Aidatlar (" +
+                "AidatID AUTOINCREMENT,  " +
+                "TCKimlik varchar(11),  " +
+                "AyYil varchar(15),  " +
+                "AidatTutari INT,  " +
+                "OdemeDurum varchar(10),  " +
+                "FOREIGN KEY (TCKimlik) REFERENCES Uyeler(TCKimlik)" +
+                ");";
+            return query;
+        }
+
         public string AddMember(string tc, string name, string surname, DateTime birthTime, string bloodType,
             string gender, string city, string address, string tel, string email)
         {

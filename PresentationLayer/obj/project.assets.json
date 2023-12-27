@@ -361,11 +361,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\PresentationLayer\\PresentationLayer.csproj",
+      "projectUniqueName": "C:\\Users\\balos\\Desktop\\AssociationMembershipMenagmentApp\\PresentationLayer\\PresentationLayer.csproj",
       "projectName": "PresentationLayer",
-      "projectPath": "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\PresentationLayer\\PresentationLayer.csproj",
+      "projectPath": "C:\\Users\\balos\\Desktop\\AssociationMembershipMenagmentApp\\PresentationLayer\\PresentationLayer.csproj",
       "packagesPath": "C:\\Users\\balos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\PresentationLayer\\obj\\",
+      "outputPath": "C:\\Users\\balos\\Desktop\\AssociationMembershipMenagmentApp\\PresentationLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -387,11 +387,11 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\BusinessLayer\\BusinessLayer.csproj": {
-              "projectPath": "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\BusinessLayer\\BusinessLayer.csproj"
+            "C:\\Users\\balos\\Desktop\\AssociationMembershipMenagmentApp\\BusinessLayer\\BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\balos\\Desktop\\AssociationMembershipMenagmentApp\\BusinessLayer\\BusinessLayer.csproj"
             },
-            "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\DataAccessLayer\\DataAccessLayer.csproj"
+            "C:\\Users\\balos\\Desktop\\AssociationMembershipMenagmentApp\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\balos\\Desktop\\AssociationMembershipMenagmentApp\\DataAccessLayer\\DataAccessLayer.csproj"
             }
           }
         }
