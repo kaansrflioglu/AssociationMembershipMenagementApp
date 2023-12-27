@@ -78,7 +78,7 @@ namespace BusinessLayer
         }
         public string ShowDues(string tc)
         {
-            string query = $"SELECT Ad, Soyad, AyYil, AidatTutari, OdemeDurum FROM Uyeler " +
+            string query = $"SELECT Ad, Soyad, AidatID, AyYil, AidatTutari, OdemeDurum FROM Uyeler " +
                            $"INNER JOIN Aidatlar ON Uyeler.TCKimlik = Aidatlar.TCKimlik WHERE " +
                            $"Aidatlar.TCKimlik = '{tc}';";
             return query;

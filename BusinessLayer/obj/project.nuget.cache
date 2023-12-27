@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t2YeUQl7H2EGfPct1g/OBkeBZJeeWtCxjJ4ApyrKnGcuZu/Q7XdNjpc15CXmDApWkX1RepRht0pLx7vACbkNHw==",
+  "dgSpecHash": "wZN+p/RhRB1ZRSKV+rXBIQwJ2FDKEw6IFyL/PFhuZi/99E7Q5MwYCy1GUqMWO/2GDo31GhyRtK0yC+5DsNAuEQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\balos\\source\\repos\\FinalProjesi\\BusinessLayer\\BusinessLayer.csproj",
+  "projectFilePath": "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\balos\\.nuget\\packages\\bouncycastle\\1.8.9\\bouncycastle.1.8.9.nupkg.sha512",
     "C:\\Users\\balos\\.nuget\\packages\\itextsharp\\5.5.13.3\\itextsharp.5.5.13.3.nupkg.sha512",

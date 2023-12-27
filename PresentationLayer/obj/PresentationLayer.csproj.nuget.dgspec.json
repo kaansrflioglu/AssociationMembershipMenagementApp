@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\balos\\source\\repos\\FinalProjesi\\PresentationLayer\\PresentationLayer.csproj": {}
+    "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\PresentationLayer\\PresentationLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\balos\\source\\repos\\FinalProjesi\\BusinessLayer\\BusinessLayer.csproj": {
+    "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\BusinessLayer\\BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\balos\\source\\repos\\FinalProjesi\\BusinessLayer\\BusinessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\BusinessLayer\\BusinessLayer.csproj",
         "projectName": "BusinessLayer",
-        "projectPath": "C:\\Users\\balos\\source\\repos\\FinalProjesi\\BusinessLayer\\BusinessLayer.csproj",
+        "projectPath": "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\BusinessLayer\\BusinessLayer.csproj",
         "packagesPath": "C:\\Users\\balos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\balos\\source\\repos\\FinalProjesi\\BusinessLayer\\obj\\",
+        "outputPath": "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -74,14 +74,14 @@
         }
       }
     },
-    "C:\\Users\\balos\\source\\repos\\FinalProjesi\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\balos\\source\\repos\\FinalProjesi\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "C:\\Users\\balos\\source\\repos\\FinalProjesi\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectPath": "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\DataAccessLayer\\DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\balos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\balos\\source\\repos\\FinalProjesi\\DataAccessLayer\\obj\\",
+        "outputPath": "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -144,14 +144,14 @@
         }
       }
     },
-    "C:\\Users\\balos\\source\\repos\\FinalProjesi\\PresentationLayer\\PresentationLayer.csproj": {
+    "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\PresentationLayer\\PresentationLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\balos\\source\\repos\\FinalProjesi\\PresentationLayer\\PresentationLayer.csproj",
+        "projectUniqueName": "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\PresentationLayer\\PresentationLayer.csproj",
         "projectName": "PresentationLayer",
-        "projectPath": "C:\\Users\\balos\\source\\repos\\FinalProjesi\\PresentationLayer\\PresentationLayer.csproj",
+        "projectPath": "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\PresentationLayer\\PresentationLayer.csproj",
         "packagesPath": "C:\\Users\\balos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\balos\\source\\repos\\FinalProjesi\\PresentationLayer\\obj\\",
+        "outputPath": "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\PresentationLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -173,11 +173,11 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\balos\\source\\repos\\FinalProjesi\\BusinessLayer\\BusinessLayer.csproj": {
-                "projectPath": "C:\\Users\\balos\\source\\repos\\FinalProjesi\\BusinessLayer\\BusinessLayer.csproj"
+              "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\BusinessLayer\\BusinessLayer.csproj": {
+                "projectPath": "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\BusinessLayer\\BusinessLayer.csproj"
               },
-              "C:\\Users\\balos\\source\\repos\\FinalProjesi\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\balos\\source\\repos\\FinalProjesi\\DataAccessLayer\\DataAccessLayer.csproj"
+              "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\DataAccessLayer\\DataAccessLayer.csproj"
               }
             }
           }
@@ -195,6 +195,10 @@
             "System.Data.OleDb": {
               "target": "Package",
               "version": "[8.0.0, )"
+            },
+            "ZedGraph6": {
+              "target": "Package",
+              "version": "[6.0.0, )"
             },
             "iTextSharp": {
               "target": "Package",

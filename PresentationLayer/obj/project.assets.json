@@ -109,6 +109,18 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
+      "ZedGraph6/6.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0-windows7.0/ZedGraph6.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/ZedGraph6.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
       "BusinessLayer/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -307,6 +319,21 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "ZedGraph6/6.0.0": {
+      "sha512": "Ub3xq8TtokXdIFl+ATfhCdWtA7hg9wpcpW1l+MJ0zIZWatDPN2BO4xx2zeF/H6wwr5NKYViT1U3q9qCuu1Mh+Q==",
+      "type": "package",
+      "path": "zedgraph6/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "ZG6icon.png",
+        "lib/net6.0-windows7.0/ZedGraph6.dll",
+        "zedgraph6.6.0.0.nupkg.sha512",
+        "zedgraph6.nuspec"
+      ]
+    },
     "BusinessLayer/1.0.0": {
       "type": "project",
       "path": "../BusinessLayer/BusinessLayer.csproj",
@@ -323,6 +350,7 @@
       "BusinessLayer >= 1.0.0",
       "DataAccessLayer >= 1.0.0",
       "System.Data.OleDb >= 8.0.0",
+      "ZedGraph6 >= 6.0.0",
       "iTextSharp >= 5.5.13.3"
     ]
   },
@@ -333,11 +361,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\balos\\source\\repos\\FinalProjesi\\PresentationLayer\\PresentationLayer.csproj",
+      "projectUniqueName": "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\PresentationLayer\\PresentationLayer.csproj",
       "projectName": "PresentationLayer",
-      "projectPath": "C:\\Users\\balos\\source\\repos\\FinalProjesi\\PresentationLayer\\PresentationLayer.csproj",
+      "projectPath": "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\PresentationLayer\\PresentationLayer.csproj",
       "packagesPath": "C:\\Users\\balos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\balos\\source\\repos\\FinalProjesi\\PresentationLayer\\obj\\",
+      "outputPath": "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\PresentationLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -359,11 +387,11 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\balos\\source\\repos\\FinalProjesi\\BusinessLayer\\BusinessLayer.csproj": {
-              "projectPath": "C:\\Users\\balos\\source\\repos\\FinalProjesi\\BusinessLayer\\BusinessLayer.csproj"
+            "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\BusinessLayer\\BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\BusinessLayer\\BusinessLayer.csproj"
             },
-            "C:\\Users\\balos\\source\\repos\\FinalProjesi\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\balos\\source\\repos\\FinalProjesi\\DataAccessLayer\\DataAccessLayer.csproj"
+            "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\DataAccessLayer\\DataAccessLayer.csproj"
             }
           }
         }
@@ -381,6 +409,10 @@
           "System.Data.OleDb": {
             "target": "Package",
             "version": "[8.0.0, )"
+          },
+          "ZedGraph6": {
+            "target": "Package",
+            "version": "[6.0.0, )"
           },
           "iTextSharp": {
             "target": "Package",

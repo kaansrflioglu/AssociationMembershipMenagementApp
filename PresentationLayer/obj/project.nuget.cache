@@ -1,15 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "3/RgKbdlYdJtBkMqOJz/8qMTDxVq5chG6MFYl0TYWq0J6tQzVWJFz/+n+8pwT87SkFfnRe2dtW0sxkQfFE/l2g==",
+  "dgSpecHash": "pQXl05YiTyebHBDYj7hhMHUit1xLjKZiOhD2cdLZxKhgAE0kSML0/iVeg08+cbTL2Yfxox5QUymijwhY/t7qhA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\balos\\source\\repos\\FinalProjesi\\PresentationLayer\\PresentationLayer.csproj",
+  "projectFilePath": "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\PresentationLayer\\PresentationLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\balos\\.nuget\\packages\\bouncycastle\\1.8.9\\bouncycastle.1.8.9.nupkg.sha512",
     "C:\\Users\\balos\\.nuget\\packages\\itextsharp\\5.5.13.3\\itextsharp.5.5.13.3.nupkg.sha512",
     "C:\\Users\\balos\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
     "C:\\Users\\balos\\.nuget\\packages\\system.data.oledb\\8.0.0\\system.data.oledb.8.0.0.nupkg.sha512",
     "C:\\Users\\balos\\.nuget\\packages\\system.diagnostics.performancecounter\\8.0.0\\system.diagnostics.performancecounter.8.0.0.nupkg.sha512",
-    "C:\\Users\\balos\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+    "C:\\Users\\balos\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512",
+    "C:\\Users\\balos\\.nuget\\packages\\zedgraph6\\6.0.0\\zedgraph6.6.0.0.nupkg.sha512"
   ],
   "logs": [
     {

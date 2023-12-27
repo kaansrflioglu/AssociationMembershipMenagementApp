@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\balos\\source\\repos\\FinalProjesi\\DataAccessLayer\\DataAccessLayer.csproj": {}
+    "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\DataAccessLayer\\DataAccessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\balos\\source\\repos\\FinalProjesi\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\balos\\source\\repos\\FinalProjesi\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "C:\\Users\\balos\\source\\repos\\FinalProjesi\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectPath": "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\DataAccessLayer\\DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\balos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\balos\\source\\repos\\FinalProjesi\\DataAccessLayer\\obj\\",
+        "outputPath": "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"

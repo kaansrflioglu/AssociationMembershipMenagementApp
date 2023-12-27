@@ -114,7 +114,7 @@ namespace PresentationLayer
             DateTime.TryParse(startMonth, out startDate);
             DateTime.TryParse(endMonth, out endDate);
 
-            string result = businessLayer.ShowPaidMonths(); 
+            string result = businessLayer.ShowPaidMonths();
 
             while (startDate <= endDate)
             {
@@ -173,6 +173,25 @@ namespace PresentationLayer
                 DataTable dataTable = dataAccessLayer.ExecuteQuery(query);
                 dg_debt.DataSource = dataTable;
             }
+        }
+
+
+        private void btn_graphsMonthly_Click(object sender, EventArgs e)
+        {
+            MonthlyChart monthlyChart = new MonthlyChart();
+            monthlyChart.Show();
+        }
+
+        private void btn_graphsYearly_Click(object sender, EventArgs e)
+        {
+            YearlyChart yearlyChart = new YearlyChart();
+            yearlyChart.Show();
+        }
+
+        private void btn_graphCity_Click(object sender, EventArgs e)
+        {
+            CityChart cityChart = new CityChart();
+            cityChart.Show();
         }
     }
 }

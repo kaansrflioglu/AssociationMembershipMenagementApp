@@ -32,12 +32,7 @@ namespace PresentationLayer
 
             string query = businessLayer.ShowDues(MemberID);
             dg_showdues.DataSource = dataAccessLayer.ExecuteQuery(query);
-            if ((dg_showdues.Columns.Contains("AidatID")) && dg_showdues.Columns.Contains("TCKimlik"))
-            {
-                dg_showdues.Columns["AidatID"].Visible = false;
-                dg_showdues.Columns["TCKimlik"].Visible = false;
-
-            }
+            dg_showdues.Columns["AidatID"].Visible = false;
 
             dg_showdues.SelectionChanged += dg_showdues_SelectionChanged;
         }

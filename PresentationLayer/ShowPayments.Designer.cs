@@ -38,6 +38,9 @@
             btn_filter = new Button();
             groupBox1 = new GroupBox();
             cbox_date = new CheckBox();
+            btn_graphsMonthly = new Button();
+            btn_graphsYearly = new Button();
+            btn_graphCity = new Button();
             ((System.ComponentModel.ISupportInitialize)dg_debt).BeginInit();
             groupBox2.SuspendLayout();
             groupBox1.SuspendLayout();
@@ -63,7 +66,7 @@
             // 
             btn_sendmail.Location = new Point(693, 408);
             btn_sendmail.Name = "btn_sendmail";
-            btn_sendmail.Size = new Size(84, 87);
+            btn_sendmail.Size = new Size(84, 41);
             btn_sendmail.TabIndex = 2;
             btn_sendmail.Text = "Toplu Mail Gönder";
             btn_sendmail.UseVisualStyleBackColor = true;
@@ -73,7 +76,7 @@
             // 
             btn_printPDF.Location = new Point(603, 408);
             btn_printPDF.Name = "btn_printPDF";
-            btn_printPDF.Size = new Size(84, 87);
+            btn_printPDF.Size = new Size(84, 41);
             btn_printPDF.TabIndex = 3;
             btn_printPDF.Text = "PDF Çıktı Al";
             btn_printPDF.UseVisualStyleBackColor = true;
@@ -118,7 +121,7 @@
             // 
             btn_filter.Location = new Point(513, 409);
             btn_filter.Name = "btn_filter";
-            btn_filter.Size = new Size(84, 86);
+            btn_filter.Size = new Size(84, 40);
             btn_filter.TabIndex = 45;
             btn_filter.Text = "Filtrele";
             btn_filter.UseVisualStyleBackColor = true;
@@ -146,12 +149,45 @@
             cbox_date.UseVisualStyleBackColor = true;
             cbox_date.CheckedChanged += cbox_date_CheckedChanged;
             // 
+            // btn_graphsMonthly
+            // 
+            btn_graphsMonthly.Location = new Point(513, 455);
+            btn_graphsMonthly.Name = "btn_graphsMonthly";
+            btn_graphsMonthly.Size = new Size(84, 40);
+            btn_graphsMonthly.TabIndex = 47;
+            btn_graphsMonthly.Text = "Aylık Ödeme Grafiği";
+            btn_graphsMonthly.UseVisualStyleBackColor = true;
+            btn_graphsMonthly.Click += btn_graphsMonthly_Click;
+            // 
+            // btn_graphsYearly
+            // 
+            btn_graphsYearly.Location = new Point(603, 455);
+            btn_graphsYearly.Name = "btn_graphsYearly";
+            btn_graphsYearly.Size = new Size(84, 40);
+            btn_graphsYearly.TabIndex = 48;
+            btn_graphsYearly.Text = "Yıllık Ödeme Grafiği";
+            btn_graphsYearly.UseVisualStyleBackColor = true;
+            btn_graphsYearly.Click += btn_graphsYearly_Click;
+            // 
+            // btn_graphCity
+            // 
+            btn_graphCity.Location = new Point(693, 455);
+            btn_graphCity.Name = "btn_graphCity";
+            btn_graphCity.Size = new Size(84, 40);
+            btn_graphCity.TabIndex = 49;
+            btn_graphCity.Text = "Üye Dağılım Grafiği";
+            btn_graphCity.UseVisualStyleBackColor = true;
+            btn_graphCity.Click += btn_graphCity_Click;
+            // 
             // ShowPayments
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
             ClientSize = new Size(802, 507);
+            Controls.Add(btn_graphCity);
+            Controls.Add(btn_graphsYearly);
+            Controls.Add(btn_graphsMonthly);
             Controls.Add(groupBox1);
             Controls.Add(btn_filter);
             Controls.Add(groupBox2);
@@ -182,5 +218,8 @@
         private Button btn_filter;
         private GroupBox groupBox1;
         private CheckBox cbox_date;
+        private Button btn_graphsMonthly;
+        private Button btn_graphsYearly;
+        private Button btn_graphCity;
     }
 }

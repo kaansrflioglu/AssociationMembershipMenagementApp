@@ -11,6 +11,7 @@
           "BusinessLayer": "1.0.0",
           "DataAccessLayer": "1.0.0",
           "System.Data.OleDb": "8.0.0",
+          "ZedGraph6": "6.0.0",
           "iTextSharp": "5.5.13.3"
         },
         "runtime": {
@@ -94,6 +95,14 @@
           }
         }
       },
+      "ZedGraph6/6.0.0": {
+        "runtime": {
+          "lib/net6.0-windows7.0/ZedGraph6.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.0.0"
+          }
+        }
+      },
       "BusinessLayer/1.0.0": {
         "dependencies": {
           "System.Data.OleDb": "8.0.0",
@@ -161,6 +170,13 @@
       "sha512": "sha512-+TUFINV2q2ifyXauQXRwy4CiBhqvDEDZeVJU7qfxya4aRYOKzVBpN+4acx25VcPB9ywUN6C0n8drWl110PhZEg==",
       "path": "system.security.cryptography.protecteddata/8.0.0",
       "hashPath": "system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+    },
+    "ZedGraph6/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ub3xq8TtokXdIFl+ATfhCdWtA7hg9wpcpW1l+MJ0zIZWatDPN2BO4xx2zeF/H6wwr5NKYViT1U3q9qCuu1Mh+Q==",
+      "path": "zedgraph6/6.0.0",
+      "hashPath": "zedgraph6.6.0.0.nupkg.sha512"
     },
     "BusinessLayer/1.0.0": {
       "type": "project",

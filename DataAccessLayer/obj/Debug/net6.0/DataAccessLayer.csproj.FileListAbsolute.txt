@@ -22,3 +22,15 @@ C:\Users\emre5\source\repos\FinalProjesi\DataAccessLayer\obj\Debug\net6.0\DataAc
 C:\Users\emre5\source\repos\FinalProjesi\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
 C:\Users\emre5\source\repos\FinalProjesi\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
 C:\Users\emre5\source\repos\FinalProjesi\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\balos\Documents\GitHub\AssociationMembershipMenagmentApp\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\balos\Documents\GitHub\AssociationMembershipMenagmentApp\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\balos\Documents\GitHub\AssociationMembershipMenagmentApp\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\balos\Documents\GitHub\AssociationMembershipMenagmentApp\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\balos\Documents\GitHub\AssociationMembershipMenagmentApp\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balos\Documents\GitHub\AssociationMembershipMenagmentApp\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\balos\Documents\GitHub\AssociationMembershipMenagmentApp\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\balos\Documents\GitHub\AssociationMembershipMenagmentApp\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\balos\Documents\GitHub\AssociationMembershipMenagmentApp\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\balos\Documents\GitHub\AssociationMembershipMenagmentApp\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\balos\Documents\GitHub\AssociationMembershipMenagmentApp\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\balos\Documents\GitHub\AssociationMembershipMenagmentApp\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll

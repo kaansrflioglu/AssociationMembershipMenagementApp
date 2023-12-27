@@ -17,6 +17,7 @@
   <ItemGroup>
     <PackageReference Include="iTextSharp" Version="5.5.13.3" />
     <PackageReference Include="System.Data.OleDb" Version="8.0.0" />
+    <PackageReference Include="ZedGraph6" Version="6.0.0" />
   </ItemGroup>
 
   <ItemGroup>

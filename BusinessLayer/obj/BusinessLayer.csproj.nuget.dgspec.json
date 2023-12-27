@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\balos\\source\\repos\\FinalProjesi\\BusinessLayer\\BusinessLayer.csproj": {}
+    "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\BusinessLayer\\BusinessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\balos\\source\\repos\\FinalProjesi\\BusinessLayer\\BusinessLayer.csproj": {
+    "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\BusinessLayer\\BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\balos\\source\\repos\\FinalProjesi\\BusinessLayer\\BusinessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\BusinessLayer\\BusinessLayer.csproj",
         "projectName": "BusinessLayer",
-        "projectPath": "C:\\Users\\balos\\source\\repos\\FinalProjesi\\BusinessLayer\\BusinessLayer.csproj",
+        "projectPath": "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\BusinessLayer\\BusinessLayer.csproj",
         "packagesPath": "C:\\Users\\balos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\balos\\source\\repos\\FinalProjesi\\BusinessLayer\\obj\\",
+        "outputPath": "C:\\Users\\balos\\Documents\\GitHub\\AssociationMembershipMenagmentApp\\BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
