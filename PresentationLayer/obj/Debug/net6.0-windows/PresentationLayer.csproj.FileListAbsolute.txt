@@ -155,3 +155,4 @@ C:\Users\balos\Desktop\AssociationMembershipMenagmentApp\PresentationLayer\obj\D
 C:\Users\balos\Desktop\AssociationMembershipMenagmentApp\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.pdb
 C:\Users\balos\Desktop\AssociationMembershipMenagmentApp\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.genruntimeconfig.cache
 C:\Users\balos\Desktop\AssociationMembershipMenagmentApp\PresentationLayer\obj\Debug\net6.0-windows\ref\PresentationLayer.dll
+C:\Users\balos\Documents\GitHub\AssociationMembershipMenagmentApp\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.sourcelink.json

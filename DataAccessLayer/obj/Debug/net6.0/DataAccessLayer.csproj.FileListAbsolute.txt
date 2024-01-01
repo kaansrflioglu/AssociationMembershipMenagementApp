@@ -46,3 +46,4 @@ C:\Users\balos\Desktop\AssociationMembershipMenagmentApp\DataAccessLayer\obj\Deb
 C:\Users\balos\Desktop\AssociationMembershipMenagmentApp\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
 C:\Users\balos\Desktop\AssociationMembershipMenagmentApp\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
 C:\Users\balos\Desktop\AssociationMembershipMenagmentApp\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\balos\Documents\GitHub\AssociationMembershipMenagmentApp\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.sourcelink.json

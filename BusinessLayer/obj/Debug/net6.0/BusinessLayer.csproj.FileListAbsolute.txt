@@ -45,3 +45,4 @@ C:\Users\balos\Desktop\AssociationMembershipMenagmentApp\BusinessLayer\obj\Debug
 C:\Users\balos\Desktop\AssociationMembershipMenagmentApp\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
 C:\Users\balos\Desktop\AssociationMembershipMenagmentApp\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
 C:\Users\balos\Desktop\AssociationMembershipMenagmentApp\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\balos\Documents\GitHub\AssociationMembershipMenagmentApp\BusinessLayer\obj\Debug\net6.0\BusinessLayer.sourcelink.json

@@ -32,6 +32,9 @@ namespace PresentationLayer
                 smtpClient.Credentials = new NetworkCredential("dernektakip453@gmail.com", "mkyj fdic iueg cbbg");
                 smtpClient.EnableSsl = true;
 
+                ServicePointManager.ServerCertificateValidationCallback +=
+                (sender, certificate, chain, sslPolicyErrors) => true;
+
                 MailMessage mail = new MailMessage();
                 mail.From = new MailAddress("dernektakip453@gmail.com");
                 mail.To.Add(MailAddress);
